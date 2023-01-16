@@ -1,3 +1,4 @@
 # second python program
 
-print("To be or not to be")
+print("To be or not to be.")
+print("That is the question")
