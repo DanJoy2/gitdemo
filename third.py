@@ -1,3 +1,3 @@
-colors = ["bklue",, "green","red"]
+colors = ["bklue", "green","red"]
 for color in colors:
     print(color)
